@@ -27,6 +27,10 @@ Científico de datos con experiencia en análisis de datos 📊, desarrollo de m
   <li>Scikit-Learn</li>
   <li>XGBoost</li>
   <li>[![Python](https://img.shields.io)](https://www.python.org/)</li>
+  <li>[![Python](https://img.shields.io)](https://www.python.org)</li>
+  <li>[![Pandas](https://img.shields.io)](https://pandas.pydata.org)</li>
+  <li>[![MySQL](https://img.shields.io)](https://www.mysql.com)</li>
+  <li>[![GitHub](https://img.shields.io)](https://github.com/)</li>
 </ul>
 <!--
 **Betaniammc/Betaniammc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
