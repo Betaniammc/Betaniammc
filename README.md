@@ -1,4 +1,8 @@
-## Hi  👋
+##  👋 Soy Betania Medina 
+
+<br>
+
+Científico de datos con experiencia en análisis de datos 📊, desarrollo de modelos predictivos 🤖 y visualización de resultados 📈. Experto en Python 🐍, SQL 💾 y herramientas como Pandas 🐼, Scikit-learn 🤖 y Matplotlib 📉.
 
 
 
