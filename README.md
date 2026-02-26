@@ -17,23 +17,15 @@ Científico de datos con experiencia en análisis de datos 📊, desarrollo de m
   <li>💡 Mi proyecto destacado: Análisis de Supervivencia Oncológica (AUC-ROC 0.91).</li>
 </ul>
 
-
 <br>
-🛠️ Tecnologías y Herramientas
-Data Science & Machine Learning
-Python:
-
-Pandas:
-
-Scikit-Learn:
-
-XGBoost:
-
-Visualización y Despliegue
-Streamlit:
-
-SQL:
-
+<h3>🛠️ Tecnologías y Herramientas</h3><br>
+<h5>Data Science & Machine Learning</h5>
+Python
+<ul>
+  <li>Pandas</li>
+  <li>Scikit-Learn</li>
+  <li>XGBoost</li>
+</ul>
 <!--
 **Betaniammc/Betaniammc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
