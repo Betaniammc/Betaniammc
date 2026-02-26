@@ -1,19 +1,22 @@
 ##  👋 Soy Betania Medina 
-👩‍💻 Ingeniera de Sistemas | Data Scientist
+👩‍💻 Ingeniera de Sistemas | Data Scientist <\
 Apasionada por transformar datos complejos en soluciones estratégicas.
 
 <br>
 
 Científico de datos con experiencia en análisis de datos 📊, desarrollo de modelos predictivos 🤖 y visualización de resultados 📈, Desarrollo de proyectos end-to-end desde EDA hasta despliegue con Streamlit. Experto en Python 🐍, SQL 💾 y herramientas como NumPy, Pandas 🐼, Scikit-learn 🤖, Matplotlib y Matplotlib 📉, 
 
-🚀 Sobre mí
-🎓 Ingeniera de Sistemas de la Universidad de los Andes.
+<h3>🚀 Sobre mí</h3>
+<ul>
+  <li>🎓Ingeniera de Sistemas de la Universidad de los Andes.</li>
 
-📊 Certificada en Data Science por 4Geeks Academy.
+  <li>📊 Certificada en Data Science por 4Geeks Academy.</li>
 
-🛠️ Experta en el desarrollo de proyectos end-to-end (desde el EDA hasta el despliegue).
+  <li>🛠️ Experta en el desarrollo de proyectos end-to-end (desde el EDA hasta el despliegue).</li>
 
-💡 Mi proyecto destacado: Análisis de Supervivencia Oncológica (AUC-ROC 0.91).
+  <li>💡 Mi proyecto destacado: Análisis de Supervivencia Oncológica (AUC-ROC 0.91).</li>
+</ul>
+
 
 <br>
 🛠️ Tecnologías y Herramientas
