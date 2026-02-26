@@ -20,11 +20,13 @@ Científico de datos con experiencia en análisis de datos 📊, desarrollo de m
 <br>
 <h3>🛠️ Tecnologías y Herramientas</h3><br>
 <h5>Data Science & Machine Learning</h5>
-Python
+
 <ul>
+  <li>Python</li>
   <li>Pandas</li>
   <li>Scikit-Learn</li>
   <li>XGBoost</li>
+  <li>[![Python](https://img.shields.io)](https://www.python.org/)</li>
 </ul>
 <!--
 **Betaniammc/Betaniammc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
