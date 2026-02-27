@@ -1,10 +1,8 @@
 ##  👋 Soy Betania Medina 
-👩‍💻 Ingeniera de Sistemas | Data Scientist <\
+👩‍💻 Ingeniera de Sistemas | Data Scientist <br>
 Apasionada por transformar datos complejos en soluciones estratégicas.
 
 <br>
-
-Científico de datos con experiencia en análisis de datos 📊, desarrollo de modelos predictivos 🤖 y visualización de resultados 📈, Desarrollo de proyectos end-to-end desde EDA hasta despliegue con Streamlit. Experto en Python 🐍, SQL 💾 y herramientas como NumPy, Pandas 🐼, Scikit-learn 🤖, Matplotlib y Matplotlib 📉, 
 
 <h3>🚀 Sobre mí</h3>
 <ul>
