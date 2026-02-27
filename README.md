@@ -38,9 +38,10 @@ Soy **Analista de Datos** apasionada por transformar números en decisiones estr
 
 ---
 
-## 📈 Estadísticas y Actividad
+
 
 <!-- ### 🎼 Ritmo de Contribuciones
+## 📈 Estadísticas y Actividad
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Betaniammc&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
@@ -50,8 +51,8 @@ Soy **Analista de Datos** apasionada por transformar números en decisiones estr
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Betaniammc&theme=tokyonight" />
 </p>-->
 
-### 💻 Lenguajes más usados
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Betaniammc&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
+<!--### 💻 Lenguajes más usados
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Betaniammc&layout=compact&theme=tokyonight&hide_border=true" width="400px" />-->
 
 ## 📈 Estadísticas de GitHub
 
