@@ -1,47 +1,40 @@
-##  👋 Soy Betania Medina 
-👩‍💻 Ingeniera de Sistemas | Data Scientist <br>
-Apasionada por transformar datos complejos en soluciones estratégicas.
+# ¡Hola! Soy Betania Medina 👋
 
-<br>
+<img src="Banner para Linkedin Analista Sistemas Moderno Negro.jpg" width="100%" alt="Betania Medina Banner">
 
-<h3>🚀 Sobre mí</h3>
-<ul>
-  <li>🎓Ingeniera de Sistemas de la Universidad de los Andes.</li>
+## 📊 Sobre mí
+Soy **Analista de Datos** apasionada por transformar números en decisiones estratégicas. Me especializo en encontrar patrones donde otros ven caos y en construir herramientas visuales que cuenten historias claras.
 
-  <li>📊 Certificada en Data Science por 4Geeks Academy.</li>
+* 🔭 Actualmente trabajando en proyectos de análisis predictivo.
+* 🌱 Perfeccionando mis habilidades en **Streamlit** (usando `pip install streamlit==1.11.0` 🐍).
+* 💬 Pregúntame sobre Python, SQL y visualización de datos.
+* ⚡ Dato curioso: Me encanta optimizar procesos y hacer que el código sea tan limpio como mis dashboards.
 
-  <li>🛠️ Experta en el desarrollo de proyectos end-to-end (desde el EDA hasta el despliegue).</li>
+---
 
-  <li>💡 Mi proyecto destacado: Análisis de Supervivencia Oncológica (AUC-ROC 0.91).</li>
-</ul>
+## 🛠️ Mi Stack Tecnológico
 
-<br>
-<h3>🛠️ Tecnologías y Herramientas</h3><br>
-<h5>Data Science & Machine Learning</h5>
+### Lenguajes y Análisis
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<ul>
-  <li>Python</li>
-  <li>Pandas</li>
-  <li>Scikit-Learn</li>
-  <li>XGBoost</li>
-  <li>[![Python](https://img.shields.io)](https://www.python.org/)</li>
-  <li>[![Python](https://img.shields.io)](https://www.python.org)</li>
-  <li>[![Pandas](https://img.shields.io)](https://pandas.pydata.org)</li>
-  <li>[![MySQL](https://img.shields.io)](https://www.mysql.com)</li>
-  <li>[![GitHub](https://img.shields.io)](https://github.com/)</li>
-</ul>
-<!--
-**Betaniammc/Betaniammc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Visualización y Frameworks
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  	[![Python](https://img.shields.io)](https://www.python.org)
+## 📈 Estadísticas de GitHub
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Conectemos
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](TU_LINK_PORTFOLIO)
